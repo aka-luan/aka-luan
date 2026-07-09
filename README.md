@@ -58,8 +58,8 @@ drwxr-xr-x  luan  staff   ✨ cool stuff below — click at your own risk
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aka-luan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&ring_color=00FF41" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-luan&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top languages" />
+<img height="180" src="https://streak-stats.demolab.com?user=aka-luan&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=00FF41&dates=8B949E&stroke=00FF41" alt="GitHub streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aka-luan&theme=github_dark" alt="Top languages" />
 
 </div>
 
