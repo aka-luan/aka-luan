@@ -39,21 +39,6 @@ MOTTO:     it works on my machine — so we ship my machine
 
 </div>
 
-## `$ ls -la ~/projects`
-
-```text
-drwxr-xr-x  luan  staff   ✨ cool stuff below — click at your own risk
-```
-
-| permissions | project | what it does |
-|---|---|---|
-| `-rwxr-xr-x` | [`pixibli`](https://github.com/aka-luan/pixibli) | Ghibli-style photo transformation web app 🎨 |
-| `-rwxr-xr-x` | [`kukia-website`](https://github.com/aka-luan/kukia-website) | production website, survived contact with real users |
-| `-rwxr-xr-x` | [`prospectaai-lp`](https://github.com/aka-luan/prospectaai-lp) | landing page built with Astro, loads before you blink |
-| `-rwxr-xr-x` | [`mandafoto-lp`](https://github.com/aka-luan/mandafoto-lp) | another Astro rocket 🚀 |
-| `-rw-r--r--` | [`brevo-cold-email-sender`](https://github.com/aka-luan/brevo-cold-email-sender) | Python email machine (used responsibly, promise) |
-| `-rw-------` | `my-secret-side-project` | `Permission denied` 👀 |
-
 ## `$ htop --user=aka-luan`
 
 <div align="center">
