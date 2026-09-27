@@ -18,7 +18,7 @@
 ```text
 USER:      luan felipe britto alves
 UID:       aka-luan
-ROLE:      software analyst @ Sebrae
+ROLE:      software engineer @ Sebrae
 LOCATION:  Brazil (GMT-3, where the coffee is grown AND consumed)
 SHELL:     /bin/caffeine
 STATUS:    [ONLINE] shipping code, occasionally on purpose
